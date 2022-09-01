@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunilkumareddy</h1>
-<h2 align="center">A passionate Frontend Developer from India</h2>
+<h2 align="center">A passionate Frontend Developer from India and Remote</h2>
 
 <p align="left"> <a href="https://twitter.com/sunilkumareddyb" target="blank"><img src="https://img.shields.io/twitter/follow/sunilkumareddyb?logo=twitter&style=for-the-badge" alt="sunilkumareddyb" /></a> </p>
 
